@@ -4,7 +4,6 @@
 
 # Generación de PDFs
 reportlab==3.6.13
-#jdklñad
 
 # Manejo de bases de datos SQLite (opcional)
 #sqlite-utils==3.36.0
