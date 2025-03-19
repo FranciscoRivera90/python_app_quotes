@@ -1,0 +1,21 @@
+# Dependencias para la interfaz gráfica (Tkinter ya viene con Python)
+# Si decides usar PyQt en lugar de Tkinter, descomenta la siguiente línea
+# PyQt6==6.6.1 
+
+# Generación de PDFs
+reportlab==3.6.13
+
+# Manejo de bases de datos SQLite (opcional)
+#sqlite-utils==3.36.0
+
+# Aplicación web con Flask (si decides hacer una versión web en lugar de Tkinter)
+#Flask==3.0.0
+
+# Manejo de validaciones de datos
+#pydantic==2.5.3
+
+# Envío de correos electrónicos (si agregas esta funcionalidad)
+#smtplib3==0.2.0
+
+# Manejo de archivos Excel (opcional para exportar datos)
+#openpyxl==3.1.2
