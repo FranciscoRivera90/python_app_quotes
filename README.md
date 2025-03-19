@@ -1,4 +1,4 @@
-# Aplicación de Cotizaciones Empresariales
+# Aplicación de Cotizaciones Empresariales (README EN CONSTRUCCIÓN)
 
 Una moderna aplicación de escritorio para generar, gestionar y exportar cotizaciones profesionales para clientes y prospectos comerciales.
 
